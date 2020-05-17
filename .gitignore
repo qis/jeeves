@@ -1,0 +1,18 @@
+# Files
+.*
+!.gitattributes
+!.gitignore
+
+# Directories
+/bin/
+/build/
+/lib/
+
+# Project
+*.aps
+*.sdf
+*.suo
+*.user
+
+# Runtime
+*.log
